@@ -1,0 +1,2 @@
+# dupious
+Duplicate file finder
